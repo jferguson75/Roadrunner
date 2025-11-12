@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+# Vite / build
+dist/
+dist_deploy/
+frontend/dist/
+.vite/
+.cache/
+build/
+# Env
+.env
+# macOS
+.DS_Store
+# VSCode
+.vscode/
+# Logs
+logs/
+*.log
